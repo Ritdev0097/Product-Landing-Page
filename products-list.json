@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Fit Bottle in silver",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio corporis, quidem, omnis quod unde tenetur nesciunt alias laudantium dignissimos, incidunt impedit. Provident voluptates, dignissimos sint, molestiae corrupti blanditiis error repellendus enim saepe deleniti ut est dolorum necessitatibus! Magni, nihil veniam doloribus, quos impedit accusantium fugit sint est, quaerat vel recusandae.",        
+        "img": "/water-bottles/bottle 1.png"
+    },
+    {
+        "id": 2,
+        "title": "Fit Bottle in blue",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio corporis, quidem, omnis quod unde tenetur nesciunt alias laudantium dignissimos, incidunt impedit. Provident voluptates, dignissimos sint, molestiae corrupti blanditiis error repellendus enim saepe deleniti ut est dolorum necessitatibus! Magni, nihil veniam doloribus, quos impedit accusantium fugit sint est, quaerat vel recusandae.",        
+        "img": "/water-bottles/bottle 2.png"
+    },
+    {
+        "id": 3,
+        "title": "Fit Bottle in grey",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio corporis, quidem, omnis quod unde tenetur nesciunt alias laudantium dignissimos, incidunt impedit. Provident voluptates, dignissimos sint, molestiae corrupti blanditiis error repellendus enim saepe deleniti ut est dolorum necessitatibus! Magni, nihil veniam doloribus, quos impedit accusantium fugit sint est, quaerat vel recusandae.",        
+        "img": "/water-bottles/bottle 3.png"
+    },
+    {
+        "id": 4,
+        "title": "Fit Bottle in Black",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio corporis, quidem, omnis quod unde tenetur nesciunt alias laudantium dignissimos, incidunt impedit. Provident voluptates, dignissimos sint, molestiae corrupti blanditiis error repellendus enim saepe deleniti ut est dolorum necessitatibus! Magni, nihil veniam doloribus, quos impedit accusantium fugit sint est, quaerat vel recusandae.",        
+        "img": "/water-bottles/bottle 4.png"
+    }
+]
