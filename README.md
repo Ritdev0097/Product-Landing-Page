@@ -25,5 +25,5 @@ These are the files that used in project -:
 
 ## Authors
 
-- [@ritdev0097](https://www.github.com/ritdev0097)
+- [@ritesh0097(https://www.github.com/ritesh0097)
 
