@@ -27,8 +27,3 @@ These are the files that used in project -:
 
 - [@ritdev0097](https://www.github.com/ritdev0097)
 
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
