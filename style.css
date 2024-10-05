@@ -154,6 +154,8 @@ footer li:hover {
     line-height: 16px;    
 }
 .footer-icon {
+    font-size: 30px;
+    margin: 10px;
     transition: all 0.2s;
 }
 .footer-icon:hover {
