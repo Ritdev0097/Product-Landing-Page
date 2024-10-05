@@ -218,8 +218,8 @@
 @media screen and (width <= 400px) {
     .navlink {
         background-color: grey;
-        font-size: 30px;
-        padding: 12px;        
+        font-size: 24px;
+        padding: 4px;        
         display: flex;   
         flex-direction: column;
         position: fixed;
@@ -228,5 +228,16 @@
     }
     .navlink span {
         display: none;
+    }
+
+    #nav2 {
+        height: 200px;   
+    }
+    #nav-header {
+        width: 90%;
+    }
+
+    #nav-header div h1 {
+        margin-top: 30%;
     }
 }
