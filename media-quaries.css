@@ -212,18 +212,21 @@
     }
 }
 
+
+/* Desgin for Phone */
+
 @media screen and (width <= 400px) {
-    #nav2 {
-        height: 250px;
+    .navlink {
+        background-color: grey;
+        font-size: 30px;
+        padding: 12px;        
+        display: flex;   
+        flex-direction: column;
+        position: fixed;
+        top: 65%;
+        left: 85%;
     }
-    #nav-header div h1 {
-        font-size: 16px;
-    }
-    #nav-header {
-        font-size: 9px;
-    }
-    #nav-header img {
-        width: 80px;
-        margin-top: -10%;
+    .navlink span {
+        display: none;
     }
 }
